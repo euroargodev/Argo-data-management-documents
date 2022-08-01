@@ -4,13 +4,13 @@ Argo data management manuals, cookbooks and reference tables
 This repository is dedicated to Argo data management team documents, including obsolete or work in progress versions.
 It should replace the list of documents on http://www.argodatamgt.org/Documentation
 
-**How is Argo data management organized ?**  
+## How is Argo data management organized ?
 - A beginners' guide to accessing Argo data https://argo.ucsd.edu/data/how-to-use-argo-files
 - Argo Data Management Handbook https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/etc/argo_data_management_handbook.pdf
 - The organization of the Argo Global Data Centers https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/etc/gdac_argo_servers-2.4.pdf
 - Argo data FAQ (Frequently Asked Questions) https://argo.ucsd.edu/data/data-faq
 
-**Argo data formats**
+## Argo data formats
 - The Argo data formats are described in the "Argo user's manual"
 https://dx.doi.org/10.13155/29825
 - Argo physical parameters list: core-Argo and BGC-Argo, February 15th 2022
@@ -19,12 +19,12 @@ https://dx.doi.org/10.13155/29825
 - Technical parameters naming convention rules, version 4, May 11th 2015
 - Technical and configuration parameters units, version 2.3, May 11th 2016
 
-**Argo metadata files**
+## Argo metadata files
 - Configuration parameter names, core-Argo, August 1st 2022
 - Configuration parameter names, BGC-Argo, April 2nd 2021
 - Surface pressure correction table, January 13th 2015
 
-**Quality control**
+## Quality control
 - Argo quality control manual for CTD and trajectory data
 https://dx.doi.org/10.13155/33951
 - Argo quality control manual for dissolved oxygen concentration
@@ -38,7 +38,8 @@ https://doi.org/10.13155/84370
 - BGC-Argo quality control for radiometry
 https://doi.org/10.13155/62466
 
-**Cookbooks, core-Argo**
+## Cookbooks
+### Core-Argo
 - Argo DAC profile cookbook
 https://dx.doi.org/10.13155/41151
 - Argo DAC trajectory cookbook
@@ -46,8 +47,8 @@ https://dx.doi.org/10.13155/29824
 - Common method for determining position and Time and attribute the appropriate QC, August 2009
 - Core-Argo DMQC cookbook
 https://doi.org/10.13155/78994
- 
-**Cookbooks, BGC-Argo**
+
+### BGC-Argo
 - Processing Argo oxygen data at the DAC level cookbook
 https://doi.org/10.13155/39795
 - BGC-Argo processing particle backscattering at the DAC level
@@ -65,7 +66,7 @@ https://doi.org/10.13155/51541
 - Processing BGC-Argo pH data at the DAC level
 https://doi.org/10.13155/57195
 
-**Cookbooks, GDAC**
+### GDAC
 - Description of the Argo GDAC File Checks: Data Format and Consistency Checks
 https://dx.doi.org/10.13155/46120
 - Description of the Argo GDAC BGC File Merge Process
