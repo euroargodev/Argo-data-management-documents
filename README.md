@@ -11,13 +11,12 @@ It should replace the list of documents on http://www.argodatamgt.org/Documentat
 - [Argo data FAQ (Frequently Asked Questions)](https://argo.ucsd.edu/data/data-faq) 
 
 ## Argo data formats
-- The Argo data formats are described in the "Argo user's manual"
-https://dx.doi.org/10.13155/29825
-- [Argo physical parameters list: core-Argo and BGC-Argo](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/argo-parameters-list-core-and-b.xlsx)
-- Argo user manual for technical files
-- [Technical parameters names](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/ArgoTechnicalParameterNames.xlsx)
-- [Technical parameters naming convention rules](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/Technical_Naming_Convention_rules.doc)
-- [Technical and configuration parameters units](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/Table%20Tech%20and%20Conf%20Units.xlsx)
+- The Argo NetCDF data formats are described in the "Argo user's manual" https://dx.doi.org/10.13155/29825
+  - Argo NetCDF reference tables
+    - [Argo physical parameters list: core-Argo and BGC-Argo](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/argo-parameters-list-core-and-b.xlsx)
+    - [Technical parameters names](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/ArgoTechnicalParameterNames.xlsx)
+    - [Technical parameters naming convention rules](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/Technical_Naming_Convention_rules.doc)
+    - [Technical and configuration parameters units](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/Table%20Tech%20and%20Conf%20Units.xlsx)
 
 ## Argo metadata files
 - [Configuration parameter names, core-Argo](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/Core_Argo_ConfigurationParameterNames.xlsx)
