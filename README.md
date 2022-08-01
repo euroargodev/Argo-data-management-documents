@@ -13,14 +13,14 @@ It should replace the list of documents on http://www.argodatamgt.org/Documentat
 ## Argo data formats
 - The Argo data formats are described in the "Argo user's manual"
 https://dx.doi.org/10.13155/29825
-- Argo physical parameters list: core-Argo and BGC-Argo, February 15th 2022
+- [Argo physical parameters list: core-Argo and BGC-Argo](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/argo-parameters-list-core-and-b.xlsx)
 - Argo user manual for technical files
-- Technical parameters names, version 8.2 July 23rd 2021
+- [Technical parameters names](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/ArgoTechnicalParameterNames.xlsx)
 - Technical parameters naming convention rules, version 4, May 11th 2015
 - Technical and configuration parameters units, version 2.3, May 11th 2016
 
 ## Argo metadata files
-- Configuration parameter names, core-Argo, August 1st 2022
+- [Configuration parameter names, core-Argo](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/Core_Argo_ConfigurationParameterNames.xlsx)
 - Configuration parameter names, BGC-Argo, April 2nd 2021
 - Surface pressure correction table, January 13th 2015
 
