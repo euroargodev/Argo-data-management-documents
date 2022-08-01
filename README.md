@@ -24,54 +24,33 @@ It should replace the list of documents on http://www.argodatamgt.org/Documentat
 - [Surface pressure correction table](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/SurfacePressureCorrectionTable.xls)
 
 ## Quality control
-- Argo quality control manual for CTD and trajectory data
-https://dx.doi.org/10.13155/33951
-- Argo quality control manual for dissolved oxygen concentration
-https://doi.org/10.13155/46542
-- BGC-Argo quality control manual for biogeochemical data
-https://dx.doi.org/10.13155/40879
-- BGC-Argo quality control manual for chlorophyll-A concentration
-https://dx.doi.org/10.13155/35385
-- BGC-Argo quality control manual for nitrate concentration
-https://doi.org/10.13155/84370
-- BGC-Argo quality control for radiometry
-https://doi.org/10.13155/62466
+- Argo quality control manual for CTD and trajectory data https://dx.doi.org/10.13155/33951
+- Argo quality control manual for dissolved oxygen concentration https://doi.org/10.13155/46542
+- BGC-Argo quality control manual for biogeochemical data https://dx.doi.org/10.13155/40879
+- BGC-Argo quality control manual for chlorophyll-A concentration https://dx.doi.org/10.13155/35385
+- BGC-Argo quality control manual for nitrate concentration https://doi.org/10.13155/84370
+- BGC-Argo quality control for radiometry https://doi.org/10.13155/62466
 
 ## Cookbooks
 ### Core-Argo
-- Argo DAC profile cookbook
-https://dx.doi.org/10.13155/41151
-- Argo DAC trajectory cookbook
-https://dx.doi.org/10.13155/29824
+- Argo DAC profile cookbook https://dx.doi.org/10.13155/41151
+- Argo DAC trajectory cookbook https://dx.doi.org/10.13155/29824
 - [Common method for determining position and Time and attribute the appropriate QC](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/Method-Position-Time-QC.pdf)
-- Core-Argo DMQC cookbook
-https://doi.org/10.13155/78994
+- Core-Argo DMQC cookbook https://doi.org/10.13155/78994
 
 ### BGC-Argo
-- Processing Argo oxygen data at the DAC level cookbook
-https://doi.org/10.13155/39795
-- BGC-Argo processing particle backscattering at the DAC level
-https://dx.doi.org/10.13155/39459
-- BGC-Argo processing chlorophyll-A concentration at the DAC level
-https://dx.doi.org/10.13155/39468
-- BGC-Argo processing Argo measurement timing information at the DAC level
-https://dx.doi.org/10.13155/47998
-- Processing BGC-Argo CDOM concentration at the DAC level
-https://doi.org/10.13155/54541
-- Processing Bio-Argo nitrate concentration at the DAC Level
-https://dx.doi.org/10.13155/46121
-- Processing BGC-Argo Radiometric data at the DAC level
-https://doi.org/10.13155/51541
-- Processing BGC-Argo pH data at the DAC level
-https://doi.org/10.13155/57195
+- Processing Argo oxygen data at the DAC level cookbook https://doi.org/10.13155/39795
+- BGC-Argo processing particle backscattering at the DAC level https://dx.doi.org/10.13155/39459
+- BGC-Argo processing chlorophyll-A concentration at the DAC level https://dx.doi.org/10.13155/39468
+- BGC-Argo processing Argo measurement timing information at the DAC level https://dx.doi.org/10.13155/47998
+- Processing BGC-Argo CDOM concentration at the DAC level https://doi.org/10.13155/54541
+- Processing Bio-Argo nitrate concentration at the DAC Level https://dx.doi.org/10.13155/46121
+- Processing BGC-Argo Radiometric data at the DAC level https://doi.org/10.13155/51541
+- Processing BGC-Argo pH data at the DAC level https://doi.org/10.13155/57195
 
 ### GDAC
-- Description of the Argo GDAC File Checks: Data Format and Consistency Checks
-https://dx.doi.org/10.13155/46120
-- Description of the Argo GDAC BGC File Merge Process
-https://dx.doi.org/10.13155/52154
-- BGC-Argo synthetic profile file processing and format on Coriolis GDAC
-https://doi.org/10.13155/55637
-- Argo GDAC cookbook
-https://doi.org/10.13155/46202
+- Description of the Argo GDAC File Checks: Data Format and Consistency Checks https://dx.doi.org/10.13155/46120
+- Description of the Argo GDAC BGC File Merge Process https://dx.doi.org/10.13155/52154
+- BGC-Argo synthetic profile file processing and format on Coriolis GDAC https://doi.org/10.13155/55637
+- Argo GDAC cookbook https://doi.org/10.13155/46202
 
