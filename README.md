@@ -5,10 +5,10 @@ This repository is dedicated to Argo data management team documents, including o
 It should replace the list of documents on http://www.argodatamgt.org/Documentation
 
 **How is Argo data management organized ?**  
-- A beginners' guide to accessing Argo data
+- A beginners' guide to accessing Argo data https://argo.ucsd.edu/data/how-to-use-argo-files
 - Argo Data Management Handbook
 - The organization of the Argo Global Data Centers
-- Argo data FAQ (Frequently Asked Questions)
+- Argo data FAQ (Frequently Asked Questions) https://argo.ucsd.edu/data/data-faq
 
 **Argo data formats**
 - The Argo data formats are described in the "Argo user's manual"
