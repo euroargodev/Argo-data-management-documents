@@ -16,7 +16,7 @@ https://dx.doi.org/10.13155/29825
 - [Argo physical parameters list: core-Argo and BGC-Argo](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/argo-parameters-list-core-and-b.xlsx)
 - Argo user manual for technical files
 - [Technical parameters names](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/ArgoTechnicalParameterNames.xlsx)
-- Technical parameters naming convention rules, version 4, May 11th 2015
+- [Technical parameters naming convention rules](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/Technical_Naming_Convention_rules.doc)
 - [Technical and configuration parameters units](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/Table%20Tech%20and%20Conf%20Units.xlsx)
 
 ## Argo metadata files
