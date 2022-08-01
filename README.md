@@ -2,7 +2,7 @@
 Argo data management manuals, cookbooks and reference tables
 
 This repository is dedicated to Argo data management team documents, including obsolete or work in progress versions.
-The current valid documents are listed on : http://www.argodatamgt.org/Documentation
+It should replace the list of documents on http://www.argodatamgt.org/Documentation
 
 **How is Argo data management organized ?**  
 - A beginners' guide to accessing Argo data
