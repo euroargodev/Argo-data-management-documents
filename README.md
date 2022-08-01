@@ -6,8 +6,8 @@ It should replace the list of documents on http://www.argodatamgt.org/Documentat
 
 **How is Argo data management organized ?**  
 - A beginners' guide to accessing Argo data https://argo.ucsd.edu/data/how-to-use-argo-files
-- Argo Data Management Handbook
-- The organization of the Argo Global Data Centers
+- Argo Data Management Handbook https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/etc/argo_data_management_handbook.pdf
+- The organization of the Argo Global Data Centers https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/etc/gdac_argo_servers-2.4.pdf
 - Argo data FAQ (Frequently Asked Questions) https://argo.ucsd.edu/data/data-faq
 
 **Argo data formats**
