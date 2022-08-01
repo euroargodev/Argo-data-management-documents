@@ -17,12 +17,12 @@ https://dx.doi.org/10.13155/29825
 - Argo user manual for technical files
 - [Technical parameters names](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/ArgoTechnicalParameterNames.xlsx)
 - Technical parameters naming convention rules, version 4, May 11th 2015
-- Technical and configuration parameters units, version 2.3, May 11th 2016
+- [Technical and configuration parameters units](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/Table%20Tech%20and%20Conf%20Units.xlsx)
 
 ## Argo metadata files
 - [Configuration parameter names, core-Argo](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/Core_Argo_ConfigurationParameterNames.xlsx)
-- Configuration parameter names, BGC-Argo, April 2nd 2021
-- Surface pressure correction table, January 13th 2015
+- [Configuration parameter names, BGC-Argo](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/Bgc_Argo_Configuration_Parameter_Names.xlsx)
+- [Surface pressure correction table](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/SurfacePressureCorrectionTable.xls)
 
 ## Quality control
 - Argo quality control manual for CTD and trajectory data
