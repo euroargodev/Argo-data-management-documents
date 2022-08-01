@@ -43,7 +43,7 @@ https://doi.org/10.13155/62466
 https://dx.doi.org/10.13155/41151
 - Argo DAC trajectory cookbook
 https://dx.doi.org/10.13155/29824
-- Common method for determining position and Time and attribute the appropriate QC, August 2009
+- [Common method for determining position and Time and attribute the appropriate QC](https://github.com/euroargodev/Argo-data-management-documents/blob/main/doc/format/Method-Position-Time-QC.pdf)
 - Core-Argo DMQC cookbook
 https://doi.org/10.13155/78994
 
