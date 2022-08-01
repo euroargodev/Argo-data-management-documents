@@ -12,7 +12,7 @@ The current valid documents are listed on : http://www.argodatamgt.org/Documenta
 
 **Argo data formats**
 - The Argo data formats are described in the "Argo user's manual"
-http://dx.doi.org/10.13155/29825
+https://dx.doi.org/10.13155/29825
 - Argo physical parameters list: core-Argo and BGC-Argo, February 15th 2022
 - Argo user manual for technical files
 - Technical parameters names, version 8.2 July 23rd 2021
@@ -26,25 +26,25 @@ http://dx.doi.org/10.13155/29825
 
 **Quality control**
 - Argo quality control manual for CTD and trajectory data
-http://dx.doi.org/10.13155/33951
+https://dx.doi.org/10.13155/33951
 - Argo quality control manual for dissolved oxygen concentration
 https://doi.org/10.13155/46542
 - BGC-Argo quality control manual for biogeochemical data
-http://dx.doi.org/10.13155/40879
+https://dx.doi.org/10.13155/40879
 - BGC-Argo quality control manual for chlorophyll-A concentration
-http://dx.doi.org/10.13155/35385
+https://dx.doi.org/10.13155/35385
 - BGC-Argo quality control manual for nitrate concentration
 https://doi.org/10.13155/84370
 - BGC-Argo quality control for radiometry
 https://doi.org/10.13155/62466
 
 **Cookbooks, core-Argo**
-- Argo DAC profile cookbook, version 2.0, August 2019
-http://dx.doi.org/10.13155/41151
-- Argo DAC trajectory cookbook version 6.0, August 2019
-http://dx.doi.org/10.13155/29824
+- Argo DAC profile cookbook
+https://dx.doi.org/10.13155/41151
+- Argo DAC trajectory cookbook
+https://dx.doi.org/10.13155/29824
 - Common method for determining position and Time and attribute the appropriate QC, August 2009
-- Core-Argo DMQC cookbook version 1.0, March 2021
+- Core-Argo DMQC cookbook
 https://doi.org/10.13155/78994
  
 **Cookbooks, BGC-Argo**
@@ -73,5 +73,5 @@ https://dx.doi.org/10.13155/52154
 - BGC-Argo synthetic profile file processing and format on Coriolis GDAC
 https://doi.org/10.13155/55637
 - Argo GDAC cookbook
-http://doi.org/10.13155/46202
+https://doi.org/10.13155/46202
 
