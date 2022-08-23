@@ -1,8 +1,8 @@
 # Argo-data-management-documents
-Argo data management manuals, cookbooks and reference tables
+Argo data management manuals, cookbooks and reference tables GitHub prototype
 
-This repository is dedicated to Argo data management team documents, including obsolete or work in progress versions.
-It should replace the list of documents on http://www.argodatamgt.org/Documentation
+This repository is a **prototype** for Argo data management team documents.
+It may replace the official list of documents on http://www.argodatamgt.org/Documentation
 
 ## How is Argo data management organized ?
 - [A beginners' guide to accessing Argo data](https://argo.ucsd.edu/data/how-to-use-argo-files) 
