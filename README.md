@@ -30,6 +30,8 @@ It may replace the official list of documents on http://www.argodatamgt.org/Docu
 - BGC-Argo quality control manual for chlorophyll-A concentration https://dx.doi.org/10.13155/35385
 - BGC-Argo quality control manual for nitrate concentration https://doi.org/10.13155/84370
 - BGC-Argo quality control for radiometry https://doi.org/10.13155/62466
+- BGC-Argo quality control for BBP https://doi.org/10.13155/60262
+- BGC-Argo quality control for pH https://doi.org/10.13155/97828
 
 ## Cookbooks
 ### Core-Argo
